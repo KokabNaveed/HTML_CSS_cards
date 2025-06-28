@@ -28,8 +28,6 @@ project/
 
         └── image4.avif
 
-
-
 ## How it Works
 
 - The `#main` container uses flexbox to center the cards.  
